@@ -1,3 +1,5 @@
+// No longer required as using API from JSON Placeholder
+
 export const robots = [
     {
         id: 1,
